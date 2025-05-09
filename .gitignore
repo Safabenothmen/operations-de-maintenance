@@ -1,0 +1,14 @@
+# .gitignore
+# Node (Angular)
+dashboard/node_modules/
+dashboard/dist/
+
+# Java (Spring Boot)
+operation/target/
+
+# IDEs
+*.iml
+*.log
+*.class
+.idea/
+.vscode/
